@@ -2,4 +2,6 @@
 
 Instagram Stories with React JS &amp; Bootstrap
 
-<img src"./main-app/public/show.png">
+<p align="center">
+<img src ="./main-app/public/show.png" width="350" alt=" the result">
+</p>
