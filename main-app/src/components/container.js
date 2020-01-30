@@ -21,9 +21,6 @@ export default class container extends Component {
               <CardCarousel />
               <CardCarousel />
               <CardCarousel />
-              <CardCarousel />
-              <CardCarousel />
-              <CardCarousel />
             </div>
           </div>
           <Cardcontrol />
